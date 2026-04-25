@@ -1,0 +1,16 @@
+{
+  "name": "P999 Game",
+  "short_name": "P999",
+  "description": "Download P999 Game APK for Android — Free for Pakistan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090912",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/P999apk.io.webp",
+      "sizes": "any",
+      "type": "image/webp"
+    }
+  ]
+}

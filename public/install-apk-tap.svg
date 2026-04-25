@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 560" role="img" aria-label="Android Downloads folder showing P999_v2.4.1.apk file. Tap the file to begin installing P999 Game.">
+  <defs>
+    <marker id="tip2" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0,0 12,4 0,8" fill="#D97706"/>
+    </marker>
+    <filter id="sh2" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="cs2" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Phone shell -->
+  <rect x="6" y="6" width="348" height="548" rx="40" fill="#0F172A" filter="url(#sh2)"/>
+  <!-- Side buttons -->
+  <rect x="2" y="148" width="4" height="36" rx="2" fill="#1E293B"/>
+  <rect x="2" y="198" width="4" height="58" rx="2" fill="#1E293B"/>
+  <rect x="354" y="178" width="4" height="48" rx="2" fill="#1E293B"/>
+  <!-- Notch pill -->
+  <rect x="138" y="14" width="84" height="24" rx="12" fill="#0F172A"/>
+
+  <!-- Screen background -->
+  <rect x="16" y="52" width="328" height="452" rx="5" fill="#FAFAFA"/>
+
+  <!-- STATUS BAR -->
+  <rect x="16" y="52" width="328" height="30" fill="#212121"/>
+  <text x="32" y="72" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="white">9:41</text>
+  <!-- Signal -->
+  <rect x="262" y="67" width="3" height="10" rx="1" fill="white" opacity="0.5"/>
+  <rect x="267" y="64" width="3" height="13" rx="1" fill="white" opacity="0.7"/>
+  <rect x="272" y="61" width="3" height="16" rx="1" fill="white"/>
+  <rect x="277" y="58" width="3" height="19" rx="1" fill="white"/>
+  <!-- Battery -->
+  <rect x="290" y="62" width="18" height="9" rx="2" fill="none" stroke="white" stroke-width="1.5"/>
+  <rect x="308" y="65" width="2.5" height="3" rx="1" fill="white"/>
+  <rect x="291.5" y="63.5" width="12" height="6" rx="1.5" fill="#4ADE80"/>
+
+  <!-- TOOLBAR: Downloads -->
+  <rect x="16" y="82" width="328" height="52" fill="#212121"/>
+  <polyline points="44,101 35,108 44,115" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="57" y="113" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" fill="white">Downloads</text>
+  <!-- 3-dot menu -->
+  <circle cx="323" cy="102" r="2.5" fill="white"/>
+  <circle cx="323" cy="110" r="2.5" fill="white"/>
+  <circle cx="323" cy="118" r="2.5" fill="white"/>
+
+  <!-- Path breadcrumb -->
+  <rect x="16" y="134" width="328" height="28" fill="#F4F4F5"/>
+  <text x="32" y="152" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#71717A">Internal Storage  ›  Downloads</text>
+
+  <!-- Column header -->
+  <rect x="16" y="162" width="328" height="26" fill="white"/>
+  <line x1="16" y1="188" x2="344" y2="188" stroke="#E4E4E7" stroke-width="1"/>
+  <text x="32" y="180" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#71717A">Name  ↑</text>
+  <text x="270" y="180" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#71717A">Size</text>
+
+  <!-- ===== HIGHLIGHTED APK ROW ===== -->
+  <rect x="16" y="188" width="328" height="72" fill="#FFFBEB"/>
+  <!-- Left accent bar -->
+  <rect x="16" y="188" width="3" height="72" fill="#D97706"/>
+  <!-- APK icon -->
+  <rect x="28" y="202" width="44" height="44" rx="10" fill="#7C3AED"/>
+  <!-- APK text inside icon -->
+  <text x="50" y="220" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="800" fill="white" text-anchor="middle">APK</text>
+  <text x="50" y="233" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="600" fill="rgba(255,255,255,0.8)" text-anchor="middle">FILE</text>
+  <!-- File details -->
+  <text x="84" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#111827">P999_v2.4.1.apk</text>
+  <text x="84" y="234" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#D97706" font-weight="600">45.0 MB  ·  APK  ·  Just now</text>
+  <text x="84" y="250" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#78716C">Official P999 Game installer</text>
+
+  <!-- Divider -->
+  <line x1="16" y1="260" x2="344" y2="260" stroke="#E4E4E7" stroke-width="1"/>
+
+  <!-- Placeholder row 1 -->
+  <rect x="16" y="260" width="328" height="56" fill="white"/>
+  <rect x="28" y="274" width="44" height="44" rx="10" fill="#E4E4E7"/>
+  <rect x="84" y="278" width="140" height="11" rx="3" fill="#F4F4F5"/>
+  <rect x="84" y="295" width="90" height="9" rx="3" fill="#F4F4F5"/>
+  <line x1="16" y1="316" x2="344" y2="316" stroke="#E4E4E7" stroke-width="1"/>
+
+  <!-- Placeholder row 2 -->
+  <rect x="16" y="316" width="328" height="56" fill="white"/>
+  <rect x="28" y="330" width="44" height="44" rx="10" fill="#E4E4E7"/>
+  <rect x="84" y="334" width="120" height="11" rx="3" fill="#F4F4F5"/>
+  <rect x="84" y="351" width="80" height="9" rx="3" fill="#F4F4F5"/>
+
+  <!-- Fade overlay for placeholder rows -->
+  <rect x="16" y="260" width="328" height="112" fill="white" opacity="0.55"/>
+
+  <!-- Home indicator -->
+  <rect x="141" y="494" width="78" height="4" rx="2" fill="#D4D4D8"/>
+
+  <!-- ===== ARROW ===== -->
+  <!-- APK row center ≈ (180, 224). Label box top ≈ (385). Arrow: bottom → up with slight curve -->
+  <path d="M 175 382 Q 210 320 195 268"
+        stroke="#D97706" stroke-width="3.5" fill="none"
+        stroke-linecap="round"
+        marker-end="url(#tip2)"/>
+
+  <!-- Arrow label box -->
+  <rect x="58" y="380" width="244" height="58" rx="13" fill="#D97706"/>
+  <rect x="60" y="382" width="240" height="26" rx="11" fill="rgba(255,255,255,0.12)"/>
+  <text x="180" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="white" text-anchor="middle">Tap the APK file to install</text>
+  <text x="180" y="424" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="rgba(255,255,255,0.88)" text-anchor="middle">P999 Game v2.4.1 — 45 MB — Free</text>
+</svg>
